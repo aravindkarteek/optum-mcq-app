@@ -1,0 +1,8 @@
+.steps-content {
+  min-height: 400px;
+}
+
+.steps-action {
+  display: flex;
+  justify-content: space-between;
+}
